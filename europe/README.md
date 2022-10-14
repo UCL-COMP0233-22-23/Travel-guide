@@ -1,3 +1,3 @@
 # EUROPE
 
-- [Portugal](./portugal.md)
+- [Czech Republic](./czech_republic.md)
