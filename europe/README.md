@@ -1,3 +1,3 @@
 # EUROPE
 
-- [Czech Republic](./czech_republic.md)
+- [CZECH REPUBLIC](./czech_republic/README.md)
