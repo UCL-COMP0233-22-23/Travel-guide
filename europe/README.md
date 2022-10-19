@@ -1,2 +1,2 @@
 # Europe
-- [France] (./README.md)
+- [France] (france/README.md)
