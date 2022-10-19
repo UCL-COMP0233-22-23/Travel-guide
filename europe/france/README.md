@@ -1,2 +1,2 @@
-# EUROPE
-+ [Paris] (paris.md)
+# France
+- [Paris](paris.md)
