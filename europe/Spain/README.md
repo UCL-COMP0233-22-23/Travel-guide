@@ -1,2 +1,2 @@
 
-[Barcelona](./Barcelona.md)
+- [Barcelona](./Barcelona.md)
