@@ -1,2 +1,2 @@
 # ITALY
-[Base](alberobello.md)
+[Base](./alberobello.md)
