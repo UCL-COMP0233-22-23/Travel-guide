@@ -1,1 +1,3 @@
 # Singapore
+
+- [Tampines](tampines.md)
