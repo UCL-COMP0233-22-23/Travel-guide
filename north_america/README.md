@@ -1,4 +1,5 @@
 # NORTH_AMERICA
 
-Connection between North America README.md to USA README.md:
-[README_USA](/north_america/usa/README.md)
+Check out this country in North America:
+[United States of America](./usa/README.md)
+

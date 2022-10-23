@@ -1,4 +1,4 @@
-# USA
+# United States of America
 
-Connection between USA README and Hawaii page:
-[hawaii](hawaii.md)
+Check out this destination in the USA:
+[Hawaii](./hawaii.md)
