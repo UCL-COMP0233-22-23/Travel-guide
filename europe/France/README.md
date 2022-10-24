@@ -1,0 +1,3 @@
+# France
+
+[base](./Paris.md)
