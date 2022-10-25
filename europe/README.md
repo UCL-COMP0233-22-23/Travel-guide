@@ -1,3 +1,3 @@
 # EUROPE
 
-[base](./France/README.md)
+[France](./France/README.md)
