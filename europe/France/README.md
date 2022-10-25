@@ -1,3 +1,3 @@
 # France
 
-[base](./Paris.md)
+[Paris](./Paris.md)
