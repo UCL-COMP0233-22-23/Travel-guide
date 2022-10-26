@@ -1,2 +1,3 @@
 # Guatemala
 
+[Atitlan](atitlan.md)
