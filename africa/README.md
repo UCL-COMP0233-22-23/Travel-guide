@@ -1,4 +1,4 @@
 # AFRICA
--[CAPE VERDE](../cape_verde)
+-[CAPE VERDE](cape_verde/README.md)
 
 
